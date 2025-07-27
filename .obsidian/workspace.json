@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Sistema de Sincronização no Android"
             }
-          },
-          {
-            "id": "a40b28ef3d584260",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "000 Index/Sistema de Sincronização no Android.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Sistema de Sincronização no Android"
             }
           },
           {
@@ -194,14 +180,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a40b28ef3d584260",
+  "active": "545a7d59f8444855",
   "lastOpenFiles": [
-    "000 Index/Sistema de Sincronização no Android.md",
     "100 Projetos/Estudo de Casos.md",
+    "000 Index/Sistema de Sincronização no Android.md",
+    "Bem-vindo.md",
+    "README.md",
     "100 Projetos",
     "999 Templete/Default.md",
     "Estudo de Caso.md",
-    "Bem-vindo.md",
     "Teste.md",
     "Sem título.md",
     "999 Templete",
