@@ -6,4 +6,4 @@
 - Facilidade no uso
 - conseguir sincronizar as notas do obsidiam no celular
 - poucos passos
-- 
+- verificar se existe aplicações semelhants
