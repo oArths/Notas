@@ -7,3 +7,4 @@
 - conseguir sincronizar as notas do obsidiam no celular
 - poucos passos
 - verificar se existe aplicações semelhantes
+- acho q já encontrei 
