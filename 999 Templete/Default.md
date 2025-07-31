@@ -1,3 +1,3 @@
 **Relacionados:** [[]]
-**Date:** {{date}}
+**Date:** 31-07-2025
 **Tópicos:** 
