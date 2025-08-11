@@ -8,3 +8,4 @@
 - poucos passos
 - verificar se existe aplicações semelhantes
 - acho q já encontrei 
+- ![[Pasted image 20250810152121.png]]

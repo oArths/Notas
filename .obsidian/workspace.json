@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 Index/Sistema de Sincronização no Android.md",
+                "file": "999 Templete/Default.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sistema de Sincronização no Android"
+              "title": "Default"
             }
           }
         ]
@@ -180,14 +180,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "545a7d59f8444855",
+  "active": "c0a4198375bf6967",
   "lastOpenFiles": [
-    "100 Projetos/Estudo de Casos.md",
+    "Comandos Git.md",
+    "000 Index/Biblioteca que gera gráfico com base no fluxo das funções.md",
+    "999 Templete/Aulas.md",
+    "999 Templete/Default.md",
     "000 Index/Sistema de Sincronização no Android.md",
+    "Pasted image 20250810152121.png",
+    "100 Projetos/Estudo de Casos.md",
     "Bem-vindo.md",
     "README.md",
     "100 Projetos",
-    "999 Templete/Default.md",
     "Estudo de Caso.md",
     "Teste.md",
     "Sem título.md",
