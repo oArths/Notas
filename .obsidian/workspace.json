@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "85af02659b36afe6",
+        "id": "0cdd4b0aebf343e1",
         "type": "tabs",
         "children": [
           {
-            "id": "545a7d59f8444855",
+            "id": "b7e2c421bb1b6a56",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "999 Templete/Default.md",
-                "mode": "source",
-                "source": false
+                "file": "Banco.canvas",
+                "viewState": {
+                  "x": 269.5728073213935,
+                  "y": 625.3833151300154,
+                  "zoom": -0.2363162326608014
+                }
               },
-              "icon": "lucide-file",
-              "title": "Default"
+              "icon": "lucide-layout-dashboard",
+              "title": "Banco"
             }
           }
         ]
@@ -180,14 +183,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c0a4198375bf6967",
+  "active": "02133dfe2acd33ba",
   "lastOpenFiles": [
-    "Comandos Git.md",
+    "Banco.md",
+    "Banco.canvas",
+    "200 Faculdade/Logica Matematíca/Aula 13-08-2025.md",
+    "200 Faculdade/Desenvolvimento Web II/Aula 31-07-2025.md",
+    "999 Templete/Default.md",
+    "Imagens",
+    "Imagens/ConectivosLogicos.png",
+    "Imagens/Pasted image 20250810152121.png",
+    "200 Faculdade/Logica Matematíca",
+    "200 Faculdade/Desenvolvimento Web II",
+    "200 Faculdade",
+    "000 Index/Sistema de Sincronização no Android.md",
+    "000 Index/Comandos Git.md",
     "000 Index/Biblioteca que gera gráfico com base no fluxo das funções.md",
     "999 Templete/Aulas.md",
-    "999 Templete/Default.md",
-    "000 Index/Sistema de Sincronização no Android.md",
-    "Pasted image 20250810152121.png",
     "100 Projetos/Estudo de Casos.md",
     "Bem-vindo.md",
     "README.md",

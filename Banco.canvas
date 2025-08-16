@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"f6d88387c185e4d9","x":-125,"y":-20,"width":265,"height":200,"type":"text","text":"Cliente Pessoa Fisica\n- nome\n- CPF\n- telefone\n- email\n- IDEndereço"},
+		{"id":"b6a17f10020ea92c","x":180,"y":-20,"width":250,"height":200,"type":"text","text":"Cliente Empresa\n- Razão Social\n- CNPJ\n- telefone\n- email\n- IDEndereço"},
+		{"id":"251f74ae71b21884","x":8,"y":320,"width":280,"height":200,"type":"text","text":"Endereço\n- FKEndereço\n- Rua\n- Logadoiuro\n- Rua\n- Numero"},
+		{"id":"bb4c0b21426f8a75","x":-360,"y":360,"width":280,"height":220,"type":"text","text":"**Entrega**\n- IDCodIndetificador\n- data_solicitação\n- prazo previsto\n- status\n- valor do frete"},
+		{"id":"22c6b8eba9b15c8a","x":-420,"y":120,"width":240,"height":200,"type":"text","text":"Encomendas\n- FKCodIndetificador\n- descrição\n- peso\n- dimenções\n- valor decclarado"},
+		{"id":"a96d32404c0c87a6","x":-125,"y":640,"width":273,"height":240,"type":"text","text":"**Transporte**/Motorista\n- Nome\n-  CPF\n- CNH\n- telefone\n- email\n- IDveiculo"},
+		{"id":"68ad05e3bf71d7a7","x":220,"y":640,"width":260,"height":200,"type":"text","text":"Entrega\n-  paradas(Vairias)\n- registro do endereço(FKEndereço)\n- Horaria Prevista\n- Horario Real"},
+		{"id":"1d7aa4001ab4dd24","x":350,"y":369,"width":300,"height":202,"type":"text","text":"Pagamento\n- Id\n- Tipo\n- vezes\n- Data\n\n"}
+	],
+	"edges":[
+		{"id":"fdd9f97346d567b9","fromNode":"f6d88387c185e4d9","fromSide":"bottom","toNode":"251f74ae71b21884","toSide":"top"},
+		{"id":"131434a3e852be06","fromNode":"b6a17f10020ea92c","fromSide":"bottom","toNode":"251f74ae71b21884","toSide":"top"}
+	]
+}
