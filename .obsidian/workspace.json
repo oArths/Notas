@@ -11,17 +11,14 @@
             "id": "b7e2c421bb1b6a56",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Banco.canvas",
-                "viewState": {
-                  "x": 269.5728073213935,
-                  "y": 625.3833151300154,
-                  "zoom": -0.2363162326608014
-                }
+                "file": "200 Faculdade/Logica Matematíca/Aula 27-08-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Banco"
+              "icon": "lucide-file",
+              "title": "Aula 27-08-2025"
             }
           }
         ]
@@ -81,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5
+    "width": 282.5,
+    "collapsed": true
   },
   "right": {
     "id": "51595d582953033e",
@@ -183,11 +181,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02133dfe2acd33ba",
+  "active": "b7e2c421bb1b6a56",
   "lastOpenFiles": [
-    "Banco.md",
-    "Banco.canvas",
     "200 Faculdade/Logica Matematíca/Aula 13-08-2025.md",
+    "200 Faculdade/Logica Matematíca/Aula 27-08-2025.md",
+    "Banco.canvas",
+    "Banco.md",
     "200 Faculdade/Desenvolvimento Web II/Aula 31-07-2025.md",
     "999 Templete/Default.md",
     "Imagens",
