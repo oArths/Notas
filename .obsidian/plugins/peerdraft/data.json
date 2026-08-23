@@ -1,0 +1,31 @@
+{
+  "basePath": "https://www.peerdraft.app",
+  "subscriptionAPI": "https://www.peerdraft.app/subscription",
+  "connectAPI": "https://www.peerdraft.app/subscription/connect",
+  "sessionAPI": "https://www.peerdraft.app/session",
+  "sync": "wss://www.peerdraft.app/sync",
+  "signaling": "wss://www.peerdraft.app/signal",
+  "actives": "wss://www.peerdraft.app/actives",
+  "name": "voxxx",
+  "root": "300 Canal",
+  "plan": {
+    "type": "Free",
+    "email": "arths.developer@gmail.com"
+  },
+  "duration": 0,
+  "debug": false,
+  "version": "2.22.1",
+  "serverShares": {
+    "files": [
+      [
+        "300 Canal/Planejamento Inicial/Identificação de meios.canvas",
+        {
+          "shareId": "5ee329d4-bd7c-4089-adc7-e1b88374fbff",
+          "persistenceId": "091df8f2-85cf-4868-bd52-b92bbc24ecbe"
+        }
+      ]
+    ],
+    "folders": []
+  },
+  "oid": "9911d2c85e2a42aa"
+}

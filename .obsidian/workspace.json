@@ -1,24 +1,24 @@
 {
   "main": {
-    "id": "457419bab2a802d8",
+    "id": "971c1004e6321e5f",
     "type": "split",
     "children": [
       {
-        "id": "0cdd4b0aebf343e1",
+        "id": "b7ae0bc6732208df",
         "type": "tabs",
         "children": [
           {
-            "id": "b7e2c421bb1b6a56",
+            "id": "5f59ae5c96dec4b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "200 Faculdade/Logica Matematíca/Aula 27-08-2025.md",
+                "file": "000 Index/Comandos Git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aula 27-08-2025"
+              "title": "Comandos Git"
             }
           }
         ]
@@ -27,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "fc036c137c129968",
+    "id": "f57b975be51ad5d8",
     "type": "split",
     "children": [
       {
-        "id": "23b353fc88c0898d",
+        "id": "5620e7c14ed71337",
         "type": "tabs",
         "children": [
           {
-            "id": "02133dfe2acd33ba",
+            "id": "cff6b61cb4b3d51e",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +48,7 @@
             }
           },
           {
-            "id": "c112156f03848e33",
+            "id": "ffbe6a446dabcba8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +65,7 @@
             }
           },
           {
-            "id": "028e17217d6755e8",
+            "id": "1448ddcaeebb66dc",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -78,24 +78,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 282.5,
-    "collapsed": true
+    "width": 249
   },
   "right": {
-    "id": "51595d582953033e",
+    "id": "e415a138ba053b20",
     "type": "split",
     "children": [
       {
-        "id": "7ba58d04e1883351",
+        "id": "98de3062aa32fd75",
         "type": "tabs",
         "children": [
           {
-            "id": "7383d4b313cc1643",
+            "id": "b529c4699dad7768",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 Index/Sistema de Sincronização no Android.md",
+                "file": "300 Canal/Planejamento Inicial/Canal.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Links inversos para Sistema de Sincronização no Android"
+              "title": "Links inversos para Canal"
             }
           },
           {
-            "id": "04a3d732d801ca58",
+            "id": "a4bdc89fd270e868",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 Index/Sistema de Sincronização no Android.md",
+                "file": "300 Canal/Planejamento Inicial/Canal.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída para Sistema de Sincronização no Android"
+              "title": "Links de saída para Canal"
             }
           },
           {
-            "id": "68d2e0bffc8887cc",
+            "id": "85e7f24783804707",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -134,26 +133,56 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etiquetas"
             }
           },
           {
-            "id": "46176eba79552c78",
+            "id": "9820a05335f07a15",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "000 Index/Sistema de Sincronização no Android.md",
+                "file": "100 Projetos/Estudo de Casos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário de Sistema de Sincronização no Android"
+              "title": "Sumário de Estudo de Casos"
             }
           },
           {
-            "id": "c0a4198375bf6967",
+            "id": "eabe968f828aeb19",
+            "type": "leaf",
+            "state": {
+              "type": "peerdraft-share-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Your Peerdraft Shares"
+            }
+          },
+          {
+            "id": "e51b975967d9b548",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "4aeb2c8aef9d0e2a",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "823ce8bb287e03f6",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -163,50 +192,74 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "horizontal",
-    "width": 478.5
+    "width": 497
   },
   "left-ribbon": {
     "hiddenItems": {
-      "markdown-importer:Abrir importador Markdown": false,
-      "switcher:Abrir a troca rápida": false,
+      "markdown-importer:Abrir importador Markdown": true,
+      "switcher:Abrir a troca rápida": true,
       "graph:Abrir visualização em gráfico": false,
-      "canvas:Criar novo canvas": false,
+      "canvas:Criar novo canvas": true,
       "daily-notes:Abrir a nota de hoje": false,
       "templates:Inserir modelo": false,
       "command-palette:Abrir paleta de comandos": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Criar nova base": false,
+      "obsidian-git:Open Git source control": false,
+      "peerdraft:Show my Peerdraft Shares": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "b7e2c421bb1b6a56",
+  "active": "823ce8bb287e03f6",
   "lastOpenFiles": [
-    "200 Faculdade/Logica Matematíca/Aula 13-08-2025.md",
-    "200 Faculdade/Logica Matematíca/Aula 27-08-2025.md",
-    "Banco.canvas",
-    "Banco.md",
-    "200 Faculdade/Desenvolvimento Web II/Aula 31-07-2025.md",
-    "999 Templete/Default.md",
-    "Imagens",
-    "Imagens/ConectivosLogicos.png",
-    "Imagens/Pasted image 20250810152121.png",
-    "200 Faculdade/Logica Matematíca",
-    "200 Faculdade/Desenvolvimento Web II",
-    "200 Faculdade",
     "000 Index/Sistema de Sincronização no Android.md",
     "000 Index/Comandos Git.md",
     "000 Index/Biblioteca que gera gráfico com base no fluxo das funções.md",
-    "999 Templete/Aulas.md",
+    "Logica Matemática.md",
+    "100 Projetos/CRM + Whatszap/Escopo Inicial.md",
+    "100 Projetos/CRM + Whatszap/Projeto de Migração para WhatsApp Cloud API Oficial.md",
+    "100 Projetos/CRM + Whatszap/Proposta de Integração Strom + WhatsApp + Bot.md",
+    "300 Canal/Planejamento Inicial/Identificação de meios.canvas",
+    "100 Projetos/CRM + Whatszap/Reunião 27-07-26.md",
+    "999 Templete/Default.md",
     "100 Projetos/Estudo de Casos.md",
+    "400 ToDo/Sem título.md",
+    "400 ToDo/Sem título.canvas",
+    "100 Projetos/Social Scan",
+    "100 Projetos/The Thirteen/007 - Soft Launch.md",
+    "100 Projetos/The Thirteen/003 - Style Guide.md",
+    "100 Projetos/CRM + Whatszap",
+    "100 Projetos/The Thirteen/002 - Checklist.md",
+    "100 Projetos/The Thirteen/000 - User Flow.canvas",
+    "100 Projetos/The Thirteen/006 - Technical Definitions.md",
+    "100 Projetos/The Thirteen/005 - Briefing Técnico.md",
+    "100 Projetos/The Thirteen/004 - Briefing do Produto.md",
+    "100 Projetos/The Thirteen/001 - Index.md",
+    "100 Projetos/The Thirteen",
+    "Imagens/Pasted image 20250810152121.png",
+    "Imagens/ConectivosLogicos.png",
+    "Excalidraw/Drawing 2026-07-05 11.52.44.excalidraw.md",
+    "000 Index/Sem título.base",
+    "Banco.canvas",
+    "Untitled Kanban.md",
+    "Untitled Kanban 1.md",
+    "Excalidraw",
+    "400 ToDo",
+    "300 Canal/Planejamento Inicial",
+    "300 Canal",
     "Bem-vindo.md",
-    "README.md",
-    "100 Projetos",
-    "Estudo de Caso.md",
-    "Teste.md",
-    "Sem título.md",
+    "Imagens",
     "999 Templete",
-    "000 Index"
+    "200 Faculdade/Logica Matematíca/Aula 27-08-2025.md",
+    "200 Faculdade/Logica Matematíca/Aula 13-08-2025.md",
+    "200 Faculdade/Desenvolvimento Web II/Aula 31-07-2025.md",
+    "Notas/Imagens/Pasted image 20250810152121.png",
+    "Notas/Imagens/ConectivosLogicos.png",
+    "Notas/Banco.canvas",
+    "Notas/999 Templete/Default.md"
   ]
 }
