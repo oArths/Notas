@@ -11,10 +11,14 @@
             "id": "5f59ae5c96dec4b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Visualização em gráfico"
+              "type": "markdown",
+              "state": {
+                "file": "100 Projetos/CRM + Whatszap/Projeto de Migração para WhatsApp Cloud API Oficial.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Projeto de Migração para WhatsApp Cloud API Oficial"
             }
           }
         ]
@@ -192,7 +196,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 508
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -212,6 +216,7 @@
   },
   "active": "5f59ae5c96dec4b6",
   "lastOpenFiles": [
+    "100 Projetos/Expo 10-26",
     "200 Faculdade/Desenvolvimento Web II/Aula 31-07-2025.md",
     "000 Index/Comandos Git.md",
     "000 Index/Sistema de Sincronização no Android.md",
@@ -255,7 +260,6 @@
     "200 Faculdade/Logica Matematíca/Aula 13-08-2025.md",
     "Notas/Imagens/Pasted image 20250810152121.png",
     "Notas/Imagens/ConectivosLogicos.png",
-    "Notas/Banco.canvas",
-    "Notas/999 Templete/Default.md"
+    "Notas/Banco.canvas"
   ]
 }
