@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "faa0f5eb0e1a9045",
+        "id": "804aa273db7cb0c2",
         "type": "tabs",
         "children": [
           {
-            "id": "f4ca2f0be2b3ce8c",
+            "id": "de416f89bacfc1d4",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nova aba"
             }
           }
         ]
@@ -202,6 +198,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "markdown-importer:Abrir importador Markdown": true,
       "switcher:Abrir a troca rápida": true,
       "graph:Abrir visualização em gráfico": false,
@@ -214,7 +212,7 @@
       "peerdraft:Show my Peerdraft Shares": false
     }
   },
-  "active": "f4ca2f0be2b3ce8c",
+  "active": "de416f89bacfc1d4",
   "lastOpenFiles": [
     "000 Index/Comandos Git.md",
     "000 Index/Biblioteca que gera gráfico com base no fluxo das funções.md",
